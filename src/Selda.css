@@ -1,0 +1,130 @@
+.seldabody{
+    color: #5e6edb;
+}
+header {
+    font-family: Outfit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    height: 6.25rem; 
+    padding: 0 6rem; 
+}
+    .kuth{
+        font-family: Bebas Neue;
+    }
+    .title {
+        font-size: 4rem; 
+        font-weight: 700;
+        color: #000000;
+        flex-shrink: 0;
+    }
+    .navbar {
+        display: flex;
+        justify-content: center;
+        gap: 2.5rem; 
+    }
+    .navbar button {
+        color: #000000;
+        background: none;
+        border: none;
+        font-size: 1rem; 
+        font-weight: bold;
+        cursor: pointer;
+        text-align: center;
+        transition: color 0.3s;
+        position: relative;
+    }
+    .navbar button::before {
+        content: '';
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%; 
+        height: 0.125rem; 
+        background: linear-gradient(to right, #4285F4, #EA4335, #FBBC05, #34A853); 
+        transition: .3s;
+        transform: scaleX(0); 
+        transform-origin: left; 
+    }
+    .navbar button:hover {
+        color: #5e6edb;
+    }
+    .navbar button:hover::before {
+        transform: scaleX(1);
+    }
+
+.container .handsignImage{
+    width: 25%;
+    margin-top: 10px;
+}
+
+.container {
+    max-width: 500px;
+    width: 90%;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 20px;
+    display: grid;
+    justify-self: center;
+    justify-items: center;
+    position: relative;
+    top: 50px;
+  }
+  
+  .handsignImage {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    margin: 15px 0;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .predictions {
+    font-size: 20px;
+    font-family: Outfit;
+    color: #333;
+    margin: 15px 0;
+  }
+  
+  .inputTag {
+    display: none;
+  }
+  
+  .customFileLabel {
+    display: inline-block;
+    font-family: Outfit;
+    padding: 10px 20px;
+    background-color: #56cfe1;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  
+  .customFileLabel:hover {
+    background-color: #48b9cc;
+  }
+  
+  .theButton {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+  }
+  
+  .theButton:hover {
+    background-color: #444;
+  }

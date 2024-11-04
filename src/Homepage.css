@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    font-family: Outfit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    height: 6.25rem; 
+    padding: 0 6rem; 
+}
+    .kuth{
+        font-family: Bebas Neue;
+    }
+    .title {
+        font-size: 4rem; 
+        font-weight: 700;
+        color: #000000;
+        flex-shrink: 0;
+    }
+    .navbar {
+        display: flex;
+        justify-content: center;
+        gap: 2.5rem; 
+    }
+    .navbar button {
+        color: #000000;
+        background: none;
+        border: none;
+        font-size: 1rem; 
+        font-weight: bold;
+        cursor: pointer;
+        text-align: center;
+        transition: color 0.3s;
+        position: relative;
+    }
+    .navbar button::before {
+        content: '';
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%; 
+        height: 0.125rem; 
+        background: linear-gradient(to right, #4285F4, #EA4335, #FBBC05, #34A853); 
+        transition: .3s;
+        transform: scaleX(0); 
+        transform-origin: left; 
+    }
+    .navbar button:hover {
+        color: #5e6edb;
+    }
+    .navbar button:hover::before {
+        transform: scaleX(1);
+    }
+
+.line{
+    border-top: 0.25rem solid #000000;
+    width: 90%;
+    margin: 0.25rem auto;
+}
+
+.introduction {
+    font-family: Outfit;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    height: 60vh; 
+    text-align: center; 
+}
+    .introduction p {
+        font-size: 6rem;
+        color: #000000;
+        padding: 3rem;
+    }
+    .introduction h2 {
+        font-size: 8rem;
+        background: linear-gradient(to right, #4285F4, #EA4335, #FBBC05, #34A853);
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin: -5rem 0; 
+    }
+    .thebutton {
+        font-size: 1.25rem;
+        font-weight: 700;
+        color: #ffffff;
+        width: 13rem; 
+        height: 4rem; 
+        padding: 20px 20px; 
+        background: #000000;
+        border-radius: 50px;
+        border: 1px solid transparent;
+        transition: 0.5s;
+        box-sizing: border-box;
+        margin-top: 5rem; 
+    } 
+    .thebutton:hover {
+        background-color: #4285F4;
+        color: white;
+        width: 18.75rem;
+        cursor: pointer;
+    }
