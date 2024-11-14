@@ -42,7 +42,7 @@ const Selda = () => {
       </div>
       <nav className="navbar">
         <button >Home</button>
-        <button >About Selda</button>
+        <button >Fund</button>
         <button >Contibute</button>
       </nav>
     </header>
