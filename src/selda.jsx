@@ -42,7 +42,7 @@ const Selda = () => {
       </div>
       <nav className="navbar">
         <button >Home</button>
-        <button >Fund</button>
+        <button >Video</button>
         <button >Contibute</button>
       </nav>
     </header>
