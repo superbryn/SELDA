@@ -13,6 +13,9 @@ function PageFooter(){
                         <FaDiscord className="discord"/>
                     </a>
                 </div>
+                <div className="credits">
+                    <p>Made by Group A with LOVE</p>
+                </div>
             </footer>
         </>
     );
