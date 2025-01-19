@@ -8,11 +8,9 @@ function PageFooter(){
                 <div className="icons">
                     <a href="https://github.com/superbryn">
                         <FaGithub className="github"/>
-                        GITHUB
                     </a>
                     <a href="https://discord.com">
                         <FaDiscord className="discord"/>
-                        SUPPORT US ON DISCORD
                     </a>
                 </div>
             </footer>
