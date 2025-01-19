@@ -9,6 +9,7 @@ footer{
     justify-content: center;
 }
 .icons{
+    height: 25px;
     width: auto;
     border: 2px solid black;
 }
