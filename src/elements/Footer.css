@@ -9,7 +9,9 @@ footer{
     justify-content: center;
 }
 .icons{
-    border-color: black;
+    height: auto;
+    width: auto;
+    border: 2px solid black;
 }
 .github{
     color: black;
