@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import axios from 'axios';
 import './Selda.css';
+import { useNavigate } from "react-router-dom";
 
 const Selda = () => {
   const [prediction, setPrediction] = useState('');
@@ -33,6 +34,10 @@ const Selda = () => {
       setPrediction("error in prediction"); 
     }
   };
+  const navigate = useNavigate();
+  const navigateToHome = () => {
+        navigate('/');
+    }
 
   return (
     <div className='seldabody'>
@@ -41,7 +46,7 @@ const Selda = () => {
         <p>selda<span className="kuth">.</span></p>
       </div>
       <nav className="navbar">
-        <button >Home</button>
+        <button onClick={navigateToHome} >Home</button>
         <button >Video</button>
         <button >Contibute</button>
       </nav>
