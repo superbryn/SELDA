@@ -9,8 +9,8 @@ footer{
     justify-content: center;
 }
 .icons{
-    height: 6.25rem;
-    width: 14.5rem;
+    height: 4rem;
+    width: 10rem;
     border: 2px solid black;
     padding: 20px 20px;
     border-radius: 100px;
@@ -20,14 +20,12 @@ footer{
     text-align: center;
 }
 .github{
-    position: relative;
     color: black;
     text-decoration: none;
     font-size: 3rem;
     z-index: 0;
 }
 .discord{
-    position: relative;
     color: black;
     text-decoration: none;
     font-size: 3rem;
