@@ -23,9 +23,11 @@ footer{
     color: black;
     text-decoration: none;
     font-size: 100px;
+    z-index: 1;
 }
 .discord{
     color: black;
     text-decoration: none;
     font-size: 100px;
+    z-index: 1;
 }
