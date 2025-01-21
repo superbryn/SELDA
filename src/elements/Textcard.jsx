@@ -9,7 +9,7 @@ function Textcard() {
          and the deaf community<span className='teamdot'>.</span></span>
         </p>
 
-        <p><span className='secondIntro'>SELDA works using Sci-Kit Learn, an Machine Learning <br />
+        <p><span className='secondIntro'>SELDA works using Sci-Kit Learn, a Machine Learning <br />
           tool that powers the recognition of sign language gesture<span className='teamdot'>.</span></span>
         </p>
     </div>
