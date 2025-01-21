@@ -20,14 +20,14 @@ footer{
     text-align: center;
 }
 .github{
-    position: absolute;
+    position: relative;
     color: black;
     text-decoration: none;
     font-size: 3rem;
     z-index: 0;
 }
 .discord{
-    position: absolute;
+    position: relative;
     color: black;
     text-decoration: none;
     font-size: 3rem;
