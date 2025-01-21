@@ -12,6 +12,9 @@ function Textcard() {
         <p><span className='secondIntro'>SELDA works using Sci-Kit Learn, a Machine Learning <br />
           tool that powers the recognition of sign language gesture<span className='teamdot'>.</span></span>
         </p>
+
+        <p>
+        The website you are building leverages a backend hosted on Render to provide real-time sign language translation to text. By utilizing Render's cloud infrastructure, the platform ensures seamless processing and delivery of accurate translations, enabling users to easily convert sign language gestures into readable words.</p>
     </div>
   )
 }
