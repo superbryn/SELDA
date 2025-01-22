@@ -32,3 +32,7 @@ footer{
     font-size: 3rem;
     z-index: 0;
 }
+.disclaimer{
+    position: relative;
+    left: 0;
+}
