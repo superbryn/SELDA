@@ -14,7 +14,7 @@ function Textcard() {
         </p>
 
         <p><span className='thirdIntro'>
-        The backend of this website is hosted on Render, a cloud-based platform that provides
+        The backend is hosted on Render, a cloud-based platform that provides
         managed services for deploying and scaling applications. Using a Python Flask script, 
         the backend handles all the processing and logic behind the sign language translation, 
         ensuring smooth and efficient performance for users.<span className='teamdot'>.</span></span>
