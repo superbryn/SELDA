@@ -8,7 +8,7 @@ const Selda = () => {
   const [image, setImage] = useState(null);
 
   const goToVimeo = () => {
-    window.locate.href = "https://youtube.com"
+    window.locate.assign("www.youtube.com")
   }
 
   const handleFileChange = (event) => {
