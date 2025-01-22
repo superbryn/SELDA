@@ -33,6 +33,5 @@ footer{
     z-index: 0;
 }
 .disclaimer{
-    font-family: Poppins;
-    font-size: 100px;
+    font-family: "Poppins",sans-serif;
 }
