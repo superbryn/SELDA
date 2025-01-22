@@ -40,7 +40,7 @@ const Selda = () => {
         navigate('/');
     }
   const goToYoutube = () => {
-    navigate("https://youtube.com")
+    window.locate.assign("https://youtube.com")
   }
 
   return (
