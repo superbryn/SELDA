@@ -14,7 +14,7 @@ function PageFooter(){
                     </a>
                 </div>
                 <div className="disclaimer">
-                <p>Disclaimer: This Project is just a prototype and not a production version</p>
+                    <p>Disclaimer: This Project is just a prototype and not a production version</p>
                 </div>
             </footer>
         </>
