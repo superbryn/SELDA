@@ -6,11 +6,11 @@ footer{
     position: relative;
     display: flex;
     flex-direction: row;
-    justify-content: center;
 }
 .icons{
     height: 3.1em;
     width: 8.5rem;
+    justify-content: center;
     /*border: 2px solid black;*/
     padding: 20px 20px;
     border-radius: 100px;
