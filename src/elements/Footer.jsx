@@ -13,6 +13,7 @@ function PageFooter(){
                         <FaDiscord className="discord"/>
                     </a>
                 </div>
+                <p>Disclaimer: This Project is just a prototype and not a production version</p>
             </footer>
         </>
     );
