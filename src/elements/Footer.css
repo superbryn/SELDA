@@ -11,7 +11,7 @@ footer{
 .icons{
     height: 3.1em;
     width: 8.5rem;
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     padding: 20px 20px;
     border-radius: 100px;
     background-color: transparent;
