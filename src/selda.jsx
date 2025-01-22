@@ -7,9 +7,6 @@ const Selda = () => {
   const [prediction, setPrediction] = useState('');
   const [image, setImage] = useState(null);
 
-  const goToVimeo = () => {
-    window.locate.assign("www.youtube.com")
-  }
 
   const handleFileChange = (event) => {
     const file = event.target.files[0];
@@ -42,6 +39,9 @@ const Selda = () => {
   const navigateToHome = () => {
         navigate('/');
     }
+  const goToYoutube = () => {
+    navigate("https://youtube.com")
+  }
 
   return (
     <div className='seldabody'>
@@ -51,7 +51,7 @@ const Selda = () => {
       </div>
       <nav className="navbar">
         <button onClick={navigateToHome} >Home</button>
-        <button onClick={goToVimeo} >Video</button>
+        <button onClick={goToYoutube} >Video</button>
         <button >Contibute</button>
       </nav>
     </header>
