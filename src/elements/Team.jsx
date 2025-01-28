@@ -37,7 +37,7 @@ function TeamCard() {
                     </div>
                     <div className="member-info">
                         <h2>Bismiya<span className='teamdot'>.</span></h2>
-                        <p>Info Research</p>
+                        <p>Info Researcher</p>
                     </div>
                 </div>
                 <div className="box right">
@@ -68,8 +68,9 @@ function TeamCard() {
                     </div>
                 </div>
                 <div className="box left">
-                    
+                    <div className="boxa">
                     <img src={Richard} alt="Richard" className='rjImg' />
+                    </div>
                     <div className="member-info">
                         <h2>Richard<span className='teamdot'>.</span></h2>
                         <p>Data Scientist</p>
