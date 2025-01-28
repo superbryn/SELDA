@@ -6,10 +6,10 @@ function PageFooter(){
         <>
             <footer>
                 <div className="icons">
-                    <a href="https://github.com/superbryn/SELDA" target="_blank">
+                    <a href="https://github.com/superbryn/SELDA" target="_blank" rel="noopener noreferrer">
                         <FaGithub className="github"/>
                     </a>
-                    <a href="https://discord.com">
+                    <a href="https://discord.com" target="_blank" rel="noopener noreferrer">
                         <FaDiscord className="discord"/>
                     </a>
                 </div>
