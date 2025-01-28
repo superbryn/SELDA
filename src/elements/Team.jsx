@@ -4,8 +4,8 @@ import Annarose from './images/annarose.jpg'
 import Bismiya from './images/bismiya.jpeg'
 import Irene from './images/irene.jpg'
 import Naveen from './images/naveen.jpg'
-import Neeraj from './images/xenon.jpeg'
-import Richard from './images/rixchard.jpg'
+import Neeraj from './images/neeraj.jpg'
+import Richard from './images/richard.jpg'
 
 
 function TeamCard() {
