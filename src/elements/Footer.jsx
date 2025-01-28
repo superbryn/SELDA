@@ -6,7 +6,7 @@ function PageFooter(){
         <>
             <footer>
                 <div className="icons">
-                    <a href="https://github.com/superbryn">
+                    <a href="https://github.com/superbryn/SELDA" target="_blank">
                         <FaGithub className="github"/>
                     </a>
                     <a href="https://discord.com">
