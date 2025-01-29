@@ -9,22 +9,12 @@
   - ANITTA MATHEW  -   VIDEO PRODUCER
   - RICHARD JOPHY  -   DATA ANALYST
   - NEERAJ PRALEEP -   PROGRAMMER
+
+# API CONFIG
+hello
+: what the hell
+
 ---
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
-
-
-
-
-
-
-
-
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
