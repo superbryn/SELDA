@@ -6,7 +6,11 @@
 |-------------|----------- |
 | ANNAROSE    | PROJECT LEADER |
 | BISMIYA     | INFORMATION RESEARCHER |
-| IRENE       | TESTER | 
+| IRENE       | TESTER |
+| ANITTA      | VIDEO PRODUCER |
+| NAVEEN      | DESIGNER |
+| RICHARD     | DATA EXPERT |
+| NEERAJ      | PROGRAMMER |
 
 
 # API CONFIG
