@@ -15,8 +15,10 @@
 
 # API CONFIG
 > A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction).
+>
 > If no hands are detected the server replies with `{'prediction': 'No Hands Found'}`
-> Click Here To Visit The [Backend Sever](https://github.com/superbryn/backendForSELDA
+>
+> Click Here To Visit The [Backend Sever](https://github.com/superbryn/backendForSELDA)
 
 
 ___
