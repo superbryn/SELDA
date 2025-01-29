@@ -1,5 +1,16 @@
 # SELDA
+  SELDA STANDS FOR SIGN EXPRESSION LANGUAGE DIGITAL ASSISTANT. THIS IS A SIGN LANGUAGE DETECTION MODEL WHICH IS IN ITS PROTOTYPE STAGE
 
+  # MEMBERS ASSOCIATED
+  - ANNAROSE       -   PROJECT LEADER
+  - IRENE          -   TESTER
+  - BISMIYA        -   INFORMATION RESEARCHER
+  - NAVEEN TOMY    -   WEBSITE DESIGNER
+  - ANITTA MATHEW  -   VIDEO PRODUCER
+  - RICHARD JOPHY  -   DATA ANALYST
+  - NEERAJ PRALEEP -   PROGRAMMER
+
+ 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
