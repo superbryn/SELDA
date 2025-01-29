@@ -2,20 +2,19 @@
 > SELDA stands for sign expression language digital assistant. The website uses REACT (front-end) and a Python Flask server (back-end).
 
 # TEAM MEMBERS
-  - ANNAROSE       -   PROJECT LEADER
-  - IRENE          -   TESTER
-  - BISMIYA        -   INFORMATION RESEARCHER
-  - NAVEEN TOMY    -   WEBSITE DESIGNER
-  - ANITTA MATHEW  -   VIDEO PRODUCER
-  - RICHARD JOPHY  -   DATA ANALYST
-  - NEERAJ PRALEEP -   PROGRAMMER
+  - ANNAROSE       ->   PROJECT LEADER
+  - IRENE          ->   TESTER
+  - BISMIYA        ->   INFORMATION RESEARCHER
+  - NAVEEN TOMY    ->   WEBSITE DESIGNER
+  - ANITTA MATHEW  ->   VIDEO PRODUCER
+  - RICHARD JOPHY  ->   DATA ANALYST
+  - NEERAJ PRALEEP ->   PROGRAMMER
 
 # API CONFIG
 > A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction)
 > If no hands are detected the server replies with `{'prediction': 'No Hands Found'}`
 
-# WEBSITE
-[selda](https://selda.vercel.app)
+
 ___
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
