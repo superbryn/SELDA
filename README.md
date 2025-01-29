@@ -1,5 +1,5 @@
 # SELDA
-> SELDA stands for sign expression language digital assistant. The website uses REACT (front-end) and a Python Flask server (back-end).
+>> SELDA stands for sign expression language digital assistant. The website uses REACT (front-end) and a Python Flask server (back-end).
 
 # TEAM MEMBERS
   - ANNAROSE       -   PROJECT LEADER
