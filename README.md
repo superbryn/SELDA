@@ -4,8 +4,10 @@
 # TEAM MEMBERS
 | __MEMBERS__ | __ROLE__   |
 |-------------|----------- |
-| NEERAJ      | PROGRAMMER |
-|-------------|------------|
+| ANNAROSE    | PROJECT LEADER |
+| BISMIYA     | INFORMATION RESEARCHER |
+| IRENE       | TESTER | 
+
 
 # API CONFIG
 > A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction)
