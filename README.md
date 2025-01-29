@@ -11,8 +11,8 @@
   - NEERAJ PRALEEP -   PROGRAMMER
 
 # API CONFIG
-hello
-: what the hell
+> A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction)
+> If no hands are detected the server replies with `{'prediction': 'No Hands Found'}`
 
 ---
 # React + Vite
