@@ -2,13 +2,10 @@
 > SELDA stands for sign expression language digital assistant. The website uses REACT (front-end) and a Python Flask server (back-end).
 
 # TEAM MEMBERS
-  - ANNAROSE       ->   PROJECT LEADER
-  - IRENE          ->   TESTER
-  - BISMIYA        ->   INFORMATION RESEARCHER
-  - NAVEEN TOMY    ->   WEBSITE DESIGNER
-  - ANITTA MATHEW  ->   VIDEO PRODUCER
-  - RICHARD JOPHY  ->   DATA ANALYST
-  - NEERAJ PRALEEP ->   PROGRAMMER
+| __MEMBERS__ | __ROLE__   |
+|-------------|----------- |
+| NEERAJ      | PROGRAMMER |
+|-------------|------------|
 
 # API CONFIG
 > A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction)
