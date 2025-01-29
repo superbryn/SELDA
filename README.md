@@ -9,7 +9,7 @@
   - ANITTA MATHEW  -   VIDEO PRODUCER
   - RICHARD JOPHY  -   DATA ANALYST
   - NEERAJ PRALEEP -   PROGRAMMER
-
+---
  
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
