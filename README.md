@@ -1,5 +1,5 @@
 # SELDA
-  SELDA stands for sign expression language digital assistant. The model 
+> SELDA stands for sign expression language digital assistant. The website uses REACT and the backend is a Python Flask server.
 
 # MEMBERS ASSOCIATED
   - ANNAROSE       -   PROJECT LEADER
@@ -9,8 +9,6 @@
   - ANITTA MATHEW  -   VIDEO PRODUCER
   - RICHARD JOPHY  -   DATA ANALYST
   - NEERAJ PRALEEP -   PROGRAMMER
-
-> hello world
 
  
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
