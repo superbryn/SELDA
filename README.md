@@ -1,7 +1,7 @@
 # SELDA
 > SELDA stands for sign expression language digital assistant. The website uses REACT (front-end) and a Python Flask server (back-end).
 
-# MEMBERS ASSOCIATED
+# TEAM MEMBERS
   - ANNAROSE       -   PROJECT LEADER
   - IRENE          -   TESTER
   - BISMIYA        -   INFORMATION RESEARCHER
@@ -14,7 +14,7 @@
 > A **POST** request is sent to the backend  and after processing the server sends back the response (Prediction)
 > If no hands are detected the server replies with `{'prediction': 'No Hands Found'}`
 
----
+___
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
