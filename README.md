@@ -18,7 +18,7 @@
 >
 > If no hands are detected the server replies with `{'prediction': 'No Hands Found'}`
 >
-> Click Here To Visit The [Backend Sever](https://github.com/superbryn/backendForSELDA)
+> Click Here To Visit The [Backend Server](https://github.com/superbryn/backendForSELDA)
 
 
 ___
