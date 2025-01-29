@@ -10,13 +10,13 @@
   - RICHARD JOPHY  -   DATA ANALYST
   - NEERAJ PRALEEP -   PROGRAMMER
 ---
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
-	```
+```
 
 
 
