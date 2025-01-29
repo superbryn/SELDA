@@ -1,5 +1,5 @@
 # SELDA
-> SELDA stands for sign expression language digital assistant. The website uses REACT and the backend is a Python Flask server. 
+> SELDA stands for sign expression language digital assistant. The website uses REACT and the backend is a Python Flask server.
 
 # MEMBERS ASSOCIATED
   - ANNAROSE       -   PROJECT LEADER
@@ -10,7 +10,8 @@
   - RICHARD JOPHY  -   DATA ANALYST
   - NEERAJ PRALEEP -   PROGRAMMER
 ---
- 
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
